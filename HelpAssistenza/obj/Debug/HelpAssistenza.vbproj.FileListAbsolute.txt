@@ -1,0 +1,90 @@
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\bin\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\bin\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\bin\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\HelpAssistenza\obj\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.exe
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.xml
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.Resources.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.exe
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.xml
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\VncSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmProjector.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\VncSharp.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmProjector.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Debug\VncSharp.dll
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmProjector.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmInvioMail.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.ValidText.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmUploadFile.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmDownloadWeb.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmDownloadWeb.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmInvioMail.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmUploadFile.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.ValidText.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.DownloadAggio.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.DownloadAggio.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.DownloadAggio.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmDownloadWeb.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmInvioMail.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.frmUploadFile.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Debug\HelpAssistenza.ValidText.resources

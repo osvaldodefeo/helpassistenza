@@ -1,0 +1,74 @@
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.exe
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.xml
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.exe
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.xml
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.Resources.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.exe
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.pdb
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.xml
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.exe
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.xml
+C:\Documents and Settings\Alessio\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.AbouthelAssistenza.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmAssistenza.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmConfigurazione.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmMioip.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmReport.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\VncSharp.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmProjector.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmInvioMail.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.ValidText.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\Ionic.Zip.dll
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\VncSharp.dll
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.DownloadAggio.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmDownloadWeb.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmInvioMail.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmProjector.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmUploadFile.resources
+C:\Documents and Settings\pollero\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.ValidText.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.DownloadAggio.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmDownloadWeb.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmUploadFile.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\Ionic.Zip.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\bin\Release\VncSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.DownloadAggio.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmDownloadWeb.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmInvioMail.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmProjector.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.frmUploadFile.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\HelpAssistenza\HelpAssistenza\obj\Release\HelpAssistenza.ValidText.resources
